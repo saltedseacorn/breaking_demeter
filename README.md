@@ -1,6 +1,6 @@
 # Breaking Demeter
 
-### An obnoxious (and mostly useless) study in proper selection of nested classes and collections
+### An obnoxious (and mostly useless) study in (im)proper selection of nested classes and collections
 
 **Disclaimer**: Before engaging with these tests, you must agree that you will abide by the Law of Demeter at all times, or whenever possible. This test breaks the Law of Demeter many, many times.
 
