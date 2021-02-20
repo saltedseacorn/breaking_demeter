@@ -2,7 +2,7 @@
 
 ### An obnoxious (and mostly useless) study in the (im)proper selection of nested classes and collections
 
-**Disclaimer**: Before engaging with these tests, you must agree that you will abide by the Law of Demeter at all times, or whenever possible. This test breaks the Law of Demeter many, many times.
+**Disclaimer**: Before engaging with these tests, you must agree that *outside of these tests* you will abide by the Law of Demeter at all times, or whenever possible. This test breaks the Law of Demeter many, many times.
 
 Why then are we breaking a perfectly sound and just law?
 
