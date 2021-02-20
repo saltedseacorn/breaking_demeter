@@ -26,6 +26,7 @@ class DemeterTest < Minitest::Test
       food_lyonn
     ]
     # answer = Your code here
+    
     assert_equal result, answer
   end
 
@@ -82,6 +83,7 @@ class DemeterTest < Minitest::Test
       product4
     ]
     # answer = Your code here
+
     assert_equal result, answer
   end
   def test_you_can_find_stationary_in_finn_dixie
@@ -131,7 +133,7 @@ class DemeterTest < Minitest::Test
     region.add_southeast(food_lyonn)
 
     result = "Stationary"
-    answer = region.southeast[2].products[0].category
+    # answer = Your code here
     assert_equal result, answer
   end
 
@@ -247,7 +249,7 @@ class DemeterTest < Minitest::Test
 
     result = "2oz"
     # answer = Your code here
-    answer = region.southwest[1].products[1].weight
+
     assert_equal result, answer
   end
 
