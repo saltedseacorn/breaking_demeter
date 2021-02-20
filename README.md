@@ -10,4 +10,4 @@ So that we can practice selecting through nested classes and collections, of cou
 
 Pass my tests. Do not create helper methods. You must only use indexes and the already created `attr_reader` methods in order to properly select what the test is asking for. Use pry if you'd like.
 
-Have fun! And may the gods of Demeter have mercy upon my soul.
+Have fun, and may the gods of Demeter have mercy upon my soul.
