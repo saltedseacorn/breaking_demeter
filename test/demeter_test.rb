@@ -4,7 +4,7 @@ require './lib/product'
 require './lib/store'
 require './lib/region'
 
-# For maximum obnxious-ness, always start your answer with the region variable.
+# For maximum obnoxious-ness, always start your answer with the region variable.
 # The reason for this is to practice selecting things inside of things. 
 
 class DemeterTest < Minitest::Test
