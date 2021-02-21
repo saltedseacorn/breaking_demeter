@@ -3,7 +3,6 @@ require 'minitest/pride'
 require './lib/product'
 require './lib/store'
 require './lib/region'
-require './lib/product'
 
 class DemeterTest < Minitest::Test
   def test_it_can_list_stores_in_southeast
@@ -26,7 +25,7 @@ class DemeterTest < Minitest::Test
       food_lyonn
     ]
     # answer = Your code here
-    
+
     assert_equal result, answer
   end
 
