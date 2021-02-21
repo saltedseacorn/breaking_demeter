@@ -4,8 +4,8 @@ require './lib/product'
 require './lib/store'
 require './lib/region'
 
-# For maximum obnoxious-ness, always start your answer with the region variable.
-# The reason for this is to practice selecting things inside of things.
+# For maximum obnoxious-ness, and if you really want to test your mettle,
+# start all your answers with region. I.e answer = region.so_on.so_forth
 
 class DemeterTest < Minitest::Test
   def test_it_can_list_stores_in_southeast
