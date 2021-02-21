@@ -5,10 +5,11 @@ require './lib/store'
 require './lib/region'
 
 # For maximum obnoxious-ness, and if you really want to test your mettle,
-# start all your answers with region. I.e answer = region.so_on.so_for_forth
+# start all your answers with the region object.
+# ie. answer = region.so_on.so_for_forth
 
-# Once you've passed all your tests starting your answer with region...you may
-# go the more direct rounte...
+# Once you've passed all your tests starting your answer with the region object...
+# you may go the more direct route...
 
 class DemeterTest < Minitest::Test
   def test_it_can_list_stores_in_southeast
