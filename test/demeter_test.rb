@@ -8,6 +8,11 @@ require './lib/region'
 # start all your answers with the region object.
 # ie. answer = region.so_on.so_forth
 
+# hint: if you get stuck, open up pry, and call the .class method on the object
+# you're working on. If it returns an Array, perhaps you should use an index...ex. [1]
+# If calling .class returns you a Class ("Region" or "Store") then perhaps you
+# should use the attr_reader methods...
+
 # Once you've passed all your tests starting your answer with the region object...
 # you may go the more direct route...
 
