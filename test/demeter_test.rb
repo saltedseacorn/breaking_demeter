@@ -5,7 +5,7 @@ require './lib/store'
 require './lib/region'
 
 # For maximum obnoxious-ness, always start your answer with the region variable.
-# The reason for this is to practice selecting things inside of things. 
+# The reason for this is to practice selecting things inside of things.
 
 class DemeterTest < Minitest::Test
   def test_it_can_list_stores_in_southeast
@@ -89,7 +89,7 @@ class DemeterTest < Minitest::Test
     assert_equal result, answer
   end
   def test_you_can_find_stationary_in_finn_dixie
-    skip
+    # skip
     product1 = Product.new({
       brand: "Stic",
       name: ".5mm Multi Colored Pen",
