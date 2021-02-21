@@ -6,7 +6,7 @@ require './lib/region'
 
 # For maximum obnoxious-ness, and if you really want to test your mettle,
 # start all your answers with the region object.
-# ie. answer = region.so_on.so_for_forth
+# ie. answer = region.so_on.so_forth
 
 # Once you've passed all your tests starting your answer with the region object...
 # you may go the more direct route...
